@@ -1,0 +1,7 @@
+An audio amplifier is an Electronic circuit that amplifies low-power audio signals to a level suitable for driving Loudspeaker. 
+These Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. 
+There are many classes of Amplifiers and we have previously built a lot of Audio Amplifier circuits ranging from small 10W amplifiers to heavy 100W Power amplifiers. 
+In this project, we are going to build an Audio Amplifier using TDA2822 IC which is a very popular dual-channel audio amplifier commonly used to build high power audio amplifiers. 
+The TDA2822 amplifier circuit will have one TDA2822 amplifier IC and will be able to drive two Speakers with volume control. 
+Also, the audio input for our amplifier board can be provided directly from an audio jack. 
+To build this TDA2822 Stereo Amplifier on a PCB, we have fabricated our PCB boards from PCB Way and we will assemble and test the same in this project.
